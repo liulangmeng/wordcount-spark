@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /usr/ideaprojects/wordcount/target/scala-2.10/wordcount_2.10-2.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test/wordcount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test/wordcount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/testcom[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test/wordcount$.class[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test/wordcount$.class[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test/wordcount.class[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test/wordcount.class[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test/wordcount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test/wordcount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	com/testcom/test/wordcount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /usr/ideaprojects/wordcount/target/scala-2.10/classes/com/testcom/test/wordcount$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
